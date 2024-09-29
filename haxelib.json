@@ -1,0 +1,25 @@
+{
+    "name": "haxemouse",
+    "url": "https://github.com/toperri/haxemouse",
+    "license": "MIT",
+    "tags": [
+        "cpp",
+        "haxe",
+        "openfl",
+        "windows",
+        "utility",
+        "util",
+        "utilities"
+    ],
+    "description": "haxemouse is a library that allows to manipulate the mouse cursor of the PC. (Windows only)",
+    "version": "1.0.0",
+    "releasenote": "Initial release",
+    "contributors": [
+        "toperri"
+    ],
+    "dependencies": {
+        "hxcpp": "",
+        "lime": "",
+        "openfl": ""
+    }
+}
